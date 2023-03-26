@@ -19,3 +19,9 @@ For this project I was interested in conducting exploratory data analysis using 
 ## File Description
 
 There is only 1 file notebook for my analyis to answer all questions above
+
+## Medium Blog Post
+The main findings of the code can be found at the Medium Blog post available [here](https://www.linkedin.com/pulse/survey-stackoverflow-developers-black-chick/?published=t)
+
+## Licensing, Authors, Acknowledgements, etc.
+Acknowledgement should go to [Kaggle](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017) and STACK OVERFLOW for providing the dataset.
